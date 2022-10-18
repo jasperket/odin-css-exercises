@@ -1,0 +1,19 @@
+.warning {
+    background-color: #ffcccb;
+    font-family: Verdana,'DejaVu Sans',sans-serif;
+}
+
+#cool {
+    color:#1F51FF;
+    font-size: 32px;
+}
+
+.warning.bigger {
+    font-size: 24px;
+}
+
+#alien {
+    font-size:  24px;
+    font-weight: bold;
+    background-color: #90EE90;
+}
