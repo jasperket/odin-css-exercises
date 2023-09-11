@@ -92,6 +92,12 @@
   font-weight: normal;
 }
 
+.sidebar .photo,
+.sidebar .side-content {
+  display: grid;
+  place-items: center;
+}
+
 .nav ul li {
   font-size: 16px;
   text-transform: uppercase;
